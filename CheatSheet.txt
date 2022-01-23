@@ -1,0 +1,36 @@
+Git is the free and open source distributed version control system .
+
+INSTALLATION & GUIS:
+Git for All Platforms:
+htp://git-scm.com
+
+
+SETUP
+Configuring user information used across all local repositories
+
+git config --global user.name “[firstname lastname]”
+set a name that is identifiable for credit when review version history
+
+git config --global user.email “[valid-email]”
+set an email address that will be associated with each history marker
+
+
+SETUP & INIT 
+Configuring user information, initializing and cloning repositories
+
+git init
+initialize an existing directory as a Git repository
+
+
+STAGE & SNAPSHOT
+Working with snapshots and the Git staging area
+
+git status
+show modified files in working directory, staged for your next commit
+
+git add [file]
+add a file as it looks now to your next commit (stage)
+
+git add .
+add everything which has not  been staged yet to the staging area
+
