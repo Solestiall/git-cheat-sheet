@@ -34,3 +34,4 @@ add a file as it looks now to your next commit (stage)
 git add .
 add everything which has not  been staged yet to the staging area
 
+I have edited this file
